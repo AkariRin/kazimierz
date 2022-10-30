@@ -1,1 +1,1 @@
-# KAZIMIERZ algorithm collections
+# KAZIMIERZ Algorithm Collections
